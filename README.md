@@ -251,8 +251,9 @@ Aman8959
 
 ## 🔗 Repository
 
-GitHub: [python-project-case-study](https://github.com/Aman8959/python-project-case-study)
+GitHub: [python-project-case-study](https://github.com/Aman8959/Bank-Account-Analysis-Report.git))
 
 ## License
 
 This project is open-source and available under the MIT License.
+
